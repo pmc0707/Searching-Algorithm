@@ -1,4 +1,6 @@
-package searching;
+package searchingTypes.linearSearch;
+
+
 
 public class LinearSearch {
     public static int linearsearch(int[] numbers, int key) {

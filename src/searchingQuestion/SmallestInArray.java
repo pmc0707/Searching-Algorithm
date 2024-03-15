@@ -1,4 +1,4 @@
-package searching;
+package searchingQuestion;
 
 public class SmallestInArray {
     public static int getSmallest(int []numbers){

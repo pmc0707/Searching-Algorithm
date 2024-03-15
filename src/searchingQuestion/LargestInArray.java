@@ -1,4 +1,4 @@
-package searching;
+package searchingQuestion;
 
 public class LargestInArray {
     public static  int getLargest(int[] numbers){
