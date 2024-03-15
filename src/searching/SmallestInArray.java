@@ -12,6 +12,6 @@ public class SmallestInArray {
     }
     public static void main(String[] args) {
         int [] numbers = {0,1,-2,3,8,7,6};
-        System.out.println("Smallest value is : " + getSmallest(numbers));
+        System.out.println("Smallest value is : "  + getSmallest(numbers));
     }
 }
